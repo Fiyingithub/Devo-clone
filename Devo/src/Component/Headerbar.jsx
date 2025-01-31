@@ -13,7 +13,7 @@ const Headerbar = () => {
         }      
   }
   return (
-    <div className='bg-cover bg-center h-screen flex  pt-10 items-center justify-center'style={{ backgroundImage: `url(${headerBackground})` }}>
+    <div className='bg-cover bg-center h-screen flex  pt-64 items-center justify-center'style={{ backgroundImage: `url(${headerBackground})` }}>
         <div className='flex flex-wrap lg:gap-20 mt-[400px] md:mt-[250px] lg:mt-0 justify-between'>
             <div className='mx-[auto]  px-4 md:px-0 lg:mx-0 lg:mt-16'>
               <h1 className='text-4xl md:text-6xl font-[600]'>Mobile app site </h1>
